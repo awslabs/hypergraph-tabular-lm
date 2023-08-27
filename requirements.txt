@@ -1,0 +1,9 @@
+pyarrow==8.0.0
+torch==1.13.0
+transformers==4.21.1
+pytorch_lightning==1.7.7
+torchmetrics==0.10.0
+torch-geometric==2.0.4
+torch-scatter==2.1.1
+deepspeed==0.9.5
+ujson==5.8.0
