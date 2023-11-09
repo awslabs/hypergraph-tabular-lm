@@ -1,4 +1,4 @@
-pyarrow==8.0.0
+pyarrow==14.0.1
 torch==1.13.0
 transformers==4.21.1
 pytorch_lightning==1.7.7
