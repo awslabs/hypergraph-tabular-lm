@@ -70,4 +70,4 @@ Please cite our [paper](https://arxiv.org/pdf/2307.08623.pdf).
 }
 ```
 # Contact
-For questions on details regarding the implementation, please email: chen.pei518@163.com (Pei Chen)
+For the data and model checkpoints, please email: chen.pei518@163.com (Pei Chen)
