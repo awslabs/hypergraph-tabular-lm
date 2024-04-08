@@ -74,4 +74,5 @@ Please cite our [paper](https://arxiv.org/pdf/2307.08623.pdf).
 ```
 # Contact
 For the data and model checkpoints, please find them in the `checkpoints` folder.
+
 If you have more questions, please email: chen.pei518@163.com (Pei Chen)
