@@ -17,7 +17,7 @@ Here is an example of creating the environment using [Anaconda](https://www.anac
 
 # Pretraining
 -  Pre-process the raw data, slicing the big file into chunks, and put the `*.jsonl` files into the directory `/data/pretrain/chunks/`. Sample data is present [here](https://github.com/brickee/HyTrel/tree/main/data/pretrain/chunks) and the files can be used as reference.\
-  **Note**: Pretraining data `*.jsonl` are acquired and preprocessed by using the scripts from the [TaBERT](https://arrow.apache.org/docs/python/index.html).
+  **Note**: Pretraining data `*.jsonl` are acquired and preprocessed by using the scripts from the [TaBERT](https://github.com/facebookresearch/TaBERT?tab=readme-ov-file#commoncrawl-wdc-web-table-corpus-2015).
  
 - Run `python parallel_clean.py` to clean and serialize the tables. \
   **Note**: We serialize the tables as [arrow](https://arrow.apache.org/docs/python/index.html) in consideration of memory usage.
