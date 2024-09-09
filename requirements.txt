@@ -1,5 +1,5 @@
 pyarrow==8.0.0
-torch==1.13.0
+torch==1.13.1
 transformers==4.21.1
 pytorch_lightning==1.7.7
 torchmetrics==0.10.0
